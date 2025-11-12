@@ -235,7 +235,7 @@
 ## 10. Structure from Motion (SfM)
 
 ### Landmark Papers
-- **["Multiple View Geometry in Computer Vision"](https://www.robots.ox.ac.uk/~vgg/work/view_geometry.html)** - Hartley & Zisserman
+- **["Multiple View Geometry in Computer Vision"](https://www.r-5.org/files/books/computers/algo-list/image-processing/vision/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf)** - Hartley & Zisserman
   - Foundational work on multi-view geometry
   
 - **["An Invitation to 3-D Vision: From Images to Geometric Models"](https://link.springer.com/book/10.1007/978-0-387-21779-6)** - Ma, Kosecká, et al.
